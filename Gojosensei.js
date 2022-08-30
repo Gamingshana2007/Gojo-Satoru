@@ -3380,7 +3380,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Shashi burina thaicho🎉
+┌┤✑  👻
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
@@ -3441,7 +3441,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Daijobka sempai?😄
+┌┤✑  👻
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
